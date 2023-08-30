@@ -1,3 +1,1 @@
-# starship-config
-Mi configuracion de starship rs
-para cualquier sistema operativo
+My starship favorite icons config
